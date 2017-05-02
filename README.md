@@ -1,1 +1,1 @@
-# https://teo.github.com
+# https://teo.github.io
